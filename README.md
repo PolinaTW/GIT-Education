@@ -23,12 +23,12 @@
 ## **Понятия, используемые в GIT**
 ## Совместная работа в GIT 
 ## **Начало. Установка и полная настройка GIT**   
-git add .
-git clone
-git branch
-git add 
-git commit
-git push
-git pull
-git status
-git merge
+git add .   
+git clone   
+git branch   
+git add   
+git commit   
+git push   
+git pull   
+git status   
+git merge   
